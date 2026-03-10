@@ -1,0 +1,19 @@
+{
+  "name": "abhishek-singh-portfolio",
+  "version": "1.0.0",
+  "description": "Portfolio website for Abhishek Singh — B.Tech CSE @ NIET Greater Noida",
+  "scripts": {
+    "dev": "vite",
+    "build": "vite build",
+    "preview": "vite preview"
+  },
+  "devDependencies": {
+    "vite": "^5.0.0"
+  },
+  "dependencies": {
+    "framer-motion": "^11.0.0",
+    "gsap": "^3.12.0"
+  },
+  "author": "Abhishek Singh",
+  "license": "MIT"
+}
