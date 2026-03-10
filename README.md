@@ -38,11 +38,11 @@ portfolio/
 
 ## 🌐 Social Links
 
-All handles: **@0xabhi**
-- GitHub: https://github.com/0xabhi
-- LinkedIn: https://linkedin.com/in/0xabhi
-- Twitter/X: https://twitter.com/0xabhi
-- Instagram: https://instagram.com/0xabhi
+All handles: **@xabhi01**
+- GitHub: https://github.com/xabhi01
+- LinkedIn: https://linkedin.com/in/xabhi01
+- Twitter/X: https://twitter.com/xabhi01
+- Instagram: https://instagram.com/xabhi01
 
 ## 📬 Contact
 
